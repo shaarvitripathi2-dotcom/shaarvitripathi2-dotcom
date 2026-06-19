@@ -1,1 +1,2 @@
 ![CommitPulse Contribution Graph for shaarvitripathi2-dotcom](https://commitpulse.vercel.app/api/streak?user=shaarvitripathi2-dotcom&theme=neon&font=Inter&hide_title=true&view=languages&tz=Asia%2FKolkata)
+![CommitPulse Contribution Graph for shaarvitripathi2-dotcom](https://commitpulse.vercel.app/api/streak?user=shaarvitripathi2-dotcom&theme=neon&font=Inter&hide_title=true&hide_background=true&view=languages&tz=Asia%2FKolkata)
